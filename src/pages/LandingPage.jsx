@@ -9,7 +9,7 @@ function LandingPage() {
           <h1 className="mb-4 display-4 fw-bold">Movies</h1>
           <p className="mb-4 lead text-secondary">
           </p>
-          <Link to="/discount">
+          <Link to="/movies">
             <Button variant="dark" size="lg" className="px-5 py-2">
               Get Started
             </Button>
